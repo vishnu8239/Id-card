@@ -12,6 +12,7 @@ const App = () => {
         <View style={styles.infoContainer}>
           <Text style={styles.title}>VISHNU JANGID</Text>
           <Text style={styles.title}>Employee ID: 8239034523</Text>
+          <Text style={styles.title}>Mobile No.: 9876543210</Text>
           <Text style={styles.title}>Department: Engineering</Text>
           
         </View>
